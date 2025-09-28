@@ -1,4 +1,6 @@
 # FitVerse - Modern Gym Website
+# By Abdul Yahiya
+#Live-https://fitversebyabdul.netlify.app/
 
 A comprehensive, modern gym website built with React.js featuring user authentication, diet plans, animated exercise guides, and email integration.
 
@@ -50,7 +52,7 @@ A comprehensive, modern gym website built with React.js featuring user authentic
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/abdulyahiya/FitVerse
    cd FitVerse
    ```
 
@@ -216,7 +218,7 @@ FitVerse/
 ## 📞 Support
 
 For support or questions:
-- Email: admin@fitverse.com
+- Email: abdulyahiya9973@gmail.com
 - Create an issue in the repository
 
 ## 📜 License
